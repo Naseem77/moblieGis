@@ -1,0 +1,17 @@
+com/mobliegis/generated/BasePackageList.java
+ com.mobliegis.generated.BasePackageList
+com/mobliegis/ReactNativeFlipper.java
+ com.mobliegis.ReactNativeFlipper
+ com.mobliegis.ReactNativeFlipper$1
+ com.mobliegis.ReactNativeFlipper$2
+ com.mobliegis.ReactNativeFlipper$2$1
+com/mobliegis/MainActivity.java
+ com.mobliegis.MainActivity
+ com.mobliegis.MainActivity$1
+com/mobliegis/MainApplication.java
+ com.mobliegis.MainApplication
+ com.mobliegis.MainApplication$1
+com/mobliegis/BuildConfig.java
+ com.mobliegis.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

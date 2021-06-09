@@ -1,0 +1,12 @@
+{
+  "name": "moblieGis",
+  "displayName": "moblieGis",
+  "expo": {
+    "name": "moblieGis",
+    "slug": "moblieGis",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
